@@ -20,4 +20,4 @@ jobs:
         vs-prerelease: true
 
     - name: Build
-      run: msbuild -m antinet.sln
+      run: msbuild XEDParse.sln
